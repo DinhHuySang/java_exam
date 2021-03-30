@@ -3,7 +3,7 @@
 ## Run
 *Please follow some steps under that to run this project with exam1, exam2, exam3*
 
-**Step 1**:`please add org lib(follow this` [guide](https://eitguide.net/huong-dan-add-thu-vien-vao-eclipse/)`<br>
+**Step 1**:`please add org lib(follow this` [guide](https://eitguide.net/huong-dan-add-thu-vien-vao-eclipse/)`)`<br>
 **Step 2**: `cd java_exam/src/exam`<br>
 **Step 3**: `	_java exam1.java_ to run exam1`<br>
 		`      _java exam2.java_ to run exam2`<br>
