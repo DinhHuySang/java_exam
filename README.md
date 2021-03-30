@@ -1,4 +1,4 @@
-# Java xam
+# Java Exams
 
 ## Run
 *Please follow some steps under that to run this project with exam1, exam2, exam3*
