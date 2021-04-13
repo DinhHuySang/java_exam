@@ -16,3 +16,10 @@
 Bài này sử dụng [database](https://github.com/duyet/vietnamese-namedb-crawler/blob/master/crawler/uit/uit_sample.json) sau đó trích xuất thuộc tính name trong đó để làm database cho bài tập. Qua một vài cách xử lý cơ bản có như bóc tách tên hay Collections có thể sort tên, tên đêm trong danh sách theo thứ tự trong bảng mã ascii<br>
 
 
+
+
+author: DinhHuySang (Leo)
+leo@techainer.com
+
+
+
